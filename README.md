@@ -2,9 +2,11 @@
 
 This repository is a collection of supplementary learning materials for the **BEng Computer Engineering Programme** at the **National University of Singapore (NUS)**. The materials include notes and cheatsheets for various courses, primarily edited by myself and other students. Any materials sourced from the internet will be indicated in the description.
 
-As a **Year 2 student** in the programme, I cannot ensure the correctness of all details, especially for courses taken a while ago. If you spot any mistakes in the materials, please contact me via email: [e1121656@u.nus.edu](mailto:e1121656@u.nus.edu).
+As students ourselves, we may not be able to ensure the correctness of all details, especially for courses taken a while ago. If you spot any mistakes in the materials, please contact me via email: [e1121656@u.nus.edu](mailto:e1121656@u.nus.edu).
 
-Additionally, I am pursuing a **second major in Mathematics**, so you will also find materials for some Math courses.
+Additionally, some of us may be pursuing a **second major in Mathematics**, so you will also find materials for some Math courses.
+
+Currently all materials are under the same branch.
 
 ### Update 24 July 2024:
 - **CS1010 PE Prep**
