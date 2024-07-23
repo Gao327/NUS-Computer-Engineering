@@ -13,3 +13,10 @@ Currently all materials are under the same branch.
 - **CG2111A Revision Notes**
 - **GEA1000 Cheatsheet** (edited from internet resources)
 - **MA2104 Cheatsheet**
+
+### Future Update by Dec 2024:
+- **EE2026 Notes**
+- **CS2113 Notes**
+- **MA2116 Notes (can be used for MA2334)**
+- **EE2211 Notes**
+- **TBC**
