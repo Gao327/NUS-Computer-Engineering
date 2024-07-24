@@ -1,5 +1,7 @@
 # Supplementary Learning Materials for BEng Computer Engineering Programme
 
+https://github.com/Gao327/NUS-Computer-Engineering
+
 This repository is a collection of supplementary learning materials for the **BEng Computer Engineering Programme** at the **National University of Singapore (NUS)**. The materials include notes and cheatsheets for various courses, primarily edited by myself and other students. Any materials sourced from the internet will be indicated in the description.
 
 As students ourselves, we may not be able to ensure the correctness of all details, especially for courses taken a while ago. If you spot any mistakes in the materials, please contact me via email: [e1121656@u.nus.edu](mailto:e1121656@u.nus.edu).
